@@ -6,8 +6,15 @@
 // Lervis Pinales - 1096323
 // Daniel Báez - 1073597
 
+struct Tower;
 struct Ring;
 
-void SetRings(Ring*&, int);
+void Test(Tower*&, Ring*&);
+void ClearAll(Ring*&, Tower*&);
+
+void SetTowers(Tower*&, int);
+void ShowTowers(Tower*&);
+
+void SetRings(Ring*&, Tower*&, int);
 void ShowRings(Ring*&);
 void MoveRings(Ring*&);
