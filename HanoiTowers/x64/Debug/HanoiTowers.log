@@ -1,2 +1,3 @@
 ﻿  HanoiTowers.cpp
+C:\Users\Omar Núñez\source\repos\VxGameX\INTEC\HanoiTowers\HanoiTowers\HanoiTowers.cpp(30): warning C4715: 'Play': not all control paths return a value
   HanoiTowers.vcxproj -> C:\Users\Omar Núñez\source\repos\VxGameX\INTEC\HanoiTowers\x64\Debug\HanoiTowers.exe
